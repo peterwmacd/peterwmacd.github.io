@@ -24,7 +24,7 @@ I am a PhD candidate in the Department Statistics at the University of Michigan.
 
 - Valid post-selection inference with grouped sparsity (pre-print on arXiv).
 
-### Multiple testing and False Discovery Rate (FDR) control
+### Multiple testing and false discovery rate (FDR) control
 **(with Kun Liang and Yingli Qin)**
 
 - Dynamic-adaptive procedures which control the FDR (paper in EJS).
