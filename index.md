@@ -5,7 +5,7 @@ title: Peter W. MacDonald
 
 # Peter W. MacDonald
 
-![(Canadian) Thanksgiving 2019](leaf.jpg)
+![(Canadian) Thanksgiving 2019](leaf.jpg){ width=40% }
 
 ## About
 
@@ -14,7 +14,7 @@ I am a PhD candidate in the Department Statistics at the University of Michigan.
 ## Research Interests
 
 ### Multilayer and dynamic networks
-**(with E. Levina and J. Zhu)**
+**(with Elizaveta Levina and Ji Zhu)**
 
 - Latent space models for common and individual structure in multiplex networks (pre-print on arXiv, R package on GitHub).
 - Latent space models for dynamic networks.
