@@ -5,7 +5,8 @@ title: Peter W. MacDonald
 
 # Peter W. MacDonald
 
-![(Canadian) Thanksgiving 2019](leaf.jpg =250x250)
+<!-- ![(Canadian) Thanksgiving 2019](leaf.jpg =250x250) -->
+<img width=”100" height=”200" src=”leaf.jpg" />
 
 ## About
 
