@@ -5,7 +5,8 @@ title: Peter W. MacDonald
 
 # Peter W. MacDonald
 
-![(Canadian) Thanksgiving 2019](leaf.jpg)
+<!-- ![(Canadian) Thanksgiving 2019](leaf.jpg) -->
+![Going for a walk](road.jpg)
 
 ## About
 
