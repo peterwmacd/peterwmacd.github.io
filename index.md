@@ -17,7 +17,7 @@ I am a PhD candidate in the Department Statistics at the University of Michigan.
 ### Multilayer and dynamic networks
 **(with Elizaveta Levina and Ji Zhu)**
 
-- Latent space models for common and individual structure in multiplex networks (pre-print on arXiv, R package on GitHub).
+- Latent space models for common and individual structure in multiplex networks (pre-print on arXiv, `multiness` R package on GitHub).
 - Latent space models for dynamic networks.
 
 ### Post-selection inference
