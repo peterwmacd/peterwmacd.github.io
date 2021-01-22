@@ -44,7 +44,13 @@ I am a PhD candidate in the Department Statistics at the University of Michigan.
 - MMath, University of Waterloo, 2018.
 - BMath, University of Waterloo, 2017.
 
-<!-- ## Awards and honors -->
+## Selected awards and honors
+
+- Statistical Learning and Data Science (SLDS) Student Paper Award, JSM 2021.
+- Rackham International Student Fellowship, University of Michigan, 2019.
+- Outstanding First Year PhD Student, University of Michigan Department of Statistics, 2019.
+- NSERC Canada Graduate Scholarship (Masters), University of Waterloo, 2017.
+- President's Graduate Scholarship, University of Waterloo, 2017.
 
 ## Contact information
 
