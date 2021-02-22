@@ -17,13 +17,13 @@ I am a PhD candidate in the Department Statistics at the University of Michigan.
 ### Multilayer and dynamic networks
 **(with Elizaveta Levina and Ji Zhu)**
 
-- Latent space models for common and individual structure in multiplex networks (pre-print on arXiv, `multiness` R package on GitHub).
+- Latent space models for common and individual structure in multiplex networks (submitted to Biometrika, pre-print on arXiv, `multiness` R package on GitHub).
 - Latent space models for dynamic networks.
 
 ### Post-selection inference
 **(with Dan Kessler and Snigdha Panigrahi)**
 
-- Valid post-selection inference with grouped sparsity (pre-print on arXiv).
+- Valid post-selection inference with grouped sparsity (submitted to JASA, pre-print on arXiv).
 
 ### Multiple testing and false discovery rate (FDR) control
 **(with Kun Liang and Yingli Qin)**
