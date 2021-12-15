@@ -10,26 +10,26 @@ title: Peter W. MacDonald
 
 ## About
 
-I am a PhD candidate in the Department Statistics at the University of Michigan. I work primarily on statistical analysis of networks. I am co-advised by [Dr. Elizaveta Levina](https://lsa.umich.edu/stats/people/faculty/elevina.html) and [Dr. Ji Zhu](https://lsa.umich.edu/stats/people/faculty/jizhu.html), and a member of their [research group](http://dept.stat.lsa.umich.edu/~elevina/group.html). Previously, I received my MMath (Statistics) and my BMath (Statistics and Pure Mathematics) from the University of Waterloo (ON).
+I am a PhD candidate in the Department of Statistics at the University of Michigan. I work primarily on statistical analysis of networks. I am co-advised by [Dr. Elizaveta Levina](https://lsa.umich.edu/stats/people/faculty/elevina.html) and [Dr. Ji Zhu](https://lsa.umich.edu/stats/people/faculty/jizhu.html), and a member of their [research group](http://dept.stat.lsa.umich.edu/~elevina/group.html). Previously, I received my MMath (Statistics) and my BMath (Statistics and Pure Mathematics) from the University of Waterloo (ON).
 
 ## Research Interests
 
 ### Multilayer and dynamic networks
-**(with Elizaveta Levina and Ji Zhu)**
+**(with Elizaveta Levina and Ji Zhu, UMich)**
 
-- Latent space models for common and individual structure in multiplex networks (submitted to Biometrika, pre-print on arXiv, `multiness` R package on GitHub).
+- Latent space models for common and individual structure in multiplex networks (forthcoming in Biometrika, pre-print on arXiv, `multiness` R package on GitHub).
 - Latent space models for dynamic networks.
 
 ### Post-selection inference
-**(with Dan Kessler and Snigdha Panigrahi)**
+**(with Dan Kessler and Snigdha Panigrahi, UMich)**
 
-- Valid post-selection inference with grouped sparsity (submitted to JASA, pre-print on arXiv).
+- Valid post-selection inference with grouped sparsity (submitted to the Journal of Machine Learning Research, pre-print on arXiv).
 
 ### Multiple testing and false discovery rate (FDR) control
-**(with Kun Liang and Yingli Qin)**
+**(with Kun Liang and Yingli Qin, UWaterloo)**
 
-- Dynamic-adaptive procedures which control the FDR (paper in EJS).
-- Multiple hypothesis testing with group information (book chapter forthcoming).
+- Dynamic-adaptive procedures which control the FDR (paper in the Electronic Journal of Statistics).
+- Multiple hypothesis testing with group information (book chapter in Modern Statistical Methods for Health Research).
 
 ## Links
 
