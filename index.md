@@ -10,7 +10,7 @@ title: Peter W. MacDonald
 
 ## About
 
-I am a PhD candidate in the Department of Statistics at the University of Michigan. I work primarily on statistical analysis of networks. I am co-advised by [Dr. Elizaveta Levina](https://lsa.umich.edu/stats/people/faculty/elevina.html) and [Dr. Ji Zhu](https://lsa.umich.edu/stats/people/faculty/jizhu.html), and a member of their [research group](http://dept.stat.lsa.umich.edu/~elevina/group.html). Previously, I received my MMath (Statistics) and my BMath (Statistics and Pure Mathematics) from the University of Waterloo (ON).
+I am a PhD candidate in the Department of Statistics at the University of Michigan. I work primarily on statistical analysis of multiple networks. I am co-advised by [Dr. Elizaveta Levina](https://lsa.umich.edu/stats/people/faculty/elevina.html) and [Dr. Ji Zhu](https://lsa.umich.edu/stats/people/faculty/jizhu.html), and a member of their [research group](http://dept.stat.lsa.umich.edu/~elevina/group.html). Previously, I received my MMath (Statistics) and my BMath (Statistics and Pure Mathematics) from the University of Waterloo (ON).
 
 ## Research Interests
 
