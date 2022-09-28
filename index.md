@@ -10,15 +10,18 @@ title: Peter W. MacDonald
 
 ## About
 
-I am a PhD candidate in the Department of Statistics at the University of Michigan. I work primarily on statistical analysis of multiple networks. I am co-advised by [Dr. Elizaveta Levina](https://lsa.umich.edu/stats/people/faculty/elevina.html) and [Dr. Ji Zhu](https://lsa.umich.edu/stats/people/faculty/jizhu.html), and a member of their [research group](http://dept.stat.lsa.umich.edu/~elevina/group.html). Previously, I received my MMath (Statistics) and my BMath (Statistics and Pure Mathematics) from the University of Waterloo (ON).
+I am a PhD candidate in the Department of Statistics at the University of Michigan. I work primarily on statistical analysis of multiple and dynamic networks, but I also have interests in high-dimensional inference and machine learning for health data.
 
-## Research Interests
+I am co-advised by [Dr. Elizaveta Levina](https://lsa.umich.edu/stats/people/faculty/elevina.html) and [Dr. Ji Zhu](https://lsa.umich.edu/stats/people/faculty/jizhu.html), and a member of their [research group](http://dept.stat.lsa.umich.edu/~elevina/group.html). Previously, I received my MMath (Statistics) and my BMath (Statistics and Pure Mathematics) from the University of Waterloo (ON).
+
+## Research Interests and Selected Publications
 
 ### Multilayer and dynamic networks
 **(with Elizaveta Levina and Ji Zhu, UMich)**
 
-- Latent space models for common and individual structure in multiplex networks (forthcoming in Biometrika, pre-print on arXiv, `multiness` R package on GitHub).
-- Latent space models for dynamic networks.
+- Latent space models for common and individual structure in multiplex networks (paper in Biometrika, `multiness` R package on GitHub).
+- Latent process models for functional networks (in preparation, forthcoming on arXiv).
+- Node-wise inference for multilayer networks.
 
 ### Post-selection inference
 **(with Dan Kessler and Snigdha Panigrahi, UMich)**
@@ -30,6 +33,11 @@ I am a PhD candidate in the Department of Statistics at the University of Michig
 
 - Dynamic-adaptive procedures which control the FDR (paper in the Electronic Journal of Statistics).
 - Multiple hypothesis testing with group information (book chapter in Modern Statistical Methods for Health Research).
+
+### Interdisciplinary work
+**(supervised by Ji Zhu, UMich; Joel Rubenstein, VA Hospital and UMich Medicine)**
+
+- Machine learning to predict esophogeal cancer risk
 
 ## Links
 
@@ -46,6 +54,8 @@ I am a PhD candidate in the Department of Statistics at the University of Michig
 
 ## Selected awards and honors
 
+- Rackham Pre-doctoral Fellow, University of Michigan 2022-2023
+- Nonparametric Statistics Student Paper Finalist, JSM 2022.
 - Statistical Learning and Data Science (SLDS) Student Paper Award, JSM 2021.
 - Rackham International Student Fellowship, University of Michigan, 2019.
 - Outstanding First Year PhD Student, University of Michigan Department of Statistics, 2019.
