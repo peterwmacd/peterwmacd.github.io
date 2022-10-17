@@ -20,7 +20,7 @@ I am co-advised by [Dr. Elizaveta Levina](https://lsa.umich.edu/stats/people/fac
 **(with Elizaveta Levina and Ji Zhu, UMich)**
 
 - Latent space models for common and individual structure in multiplex networks (paper in Biometrika, `multiness` R package on GitHub).
-- Latent process models for functional networks (in preparation, forthcoming on arXiv).
+- Latent process models for functional networks (submitted, pre-print on arXiv).
 - Node-wise inference for multilayer networks.
 
 ### Post-selection inference
