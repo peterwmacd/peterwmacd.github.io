@@ -26,7 +26,7 @@ I am co-advised by [Dr. Elizaveta Levina](https://lsa.umich.edu/stats/people/fac
 ### Post-selection inference
 **(with Dan Kessler and Snigdha Panigrahi, UMich)**
 
-- Valid post-selection inference with grouped sparsity (submitted to the Journal of Machine Learning Research, pre-print on arXiv).
+- Valid post-selection inference with grouped sparsity (revised for the Journal of Machine Learning Research, pre-print on arXiv).
 
 ### Multiple testing and false discovery rate (FDR) control
 **(with Kun Liang and Yingli Qin, UWaterloo)**
