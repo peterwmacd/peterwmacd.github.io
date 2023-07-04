@@ -3,16 +3,16 @@ layout: page
 title: Peter W. MacDonald
 ---
 
-# Peter W. MacDonald
+# Dr. Peter W. MacDonald
 
 <!-- ![(Canadian) Thanksgiving 2019](leaf.jpg) -->
-![Going for a walk](road.jpg)
+![Going for a walk in Northern Ontario](road.jpg)
 
 ## About
 
-I am a PhD candidate in the Department of Statistics at the University of Michigan. I work primarily on statistical analysis of multiple and dynamic networks. I also have interests in high-dimensional inference and machine learning for health data.
+I am a postdoctoral scholar in the Department of Mathematics and Statistics at McGill University, under the supervision of [Dr. Eric D. Kolaczyk](https://sites.bu.edu/kolaczyk/). I work primarily on statistical analysis of multiple and dynamic networks. I also have interests in post-selection inference and machine learning for health data.
 
-I am co-advised by [Dr. Elizaveta Levina](https://lsa.umich.edu/stats/people/faculty/elevina.html) and [Dr. Ji Zhu](https://lsa.umich.edu/stats/people/faculty/jizhu.html), and a member of their [research group](http://dept.stat.lsa.umich.edu/~elevina/group.html). Previously, I received my MMath (Statistics) and my BMath (Statistics and Pure Mathematics) from the University of Waterloo (ON).
+I completed my PhD at the University of Michigan, co-advised by [Dr. Elizaveta Levina](https://lsa.umich.edu/stats/people/faculty/elevina.html) and [Dr. Ji Zhu](https://lsa.umich.edu/stats/people/faculty/jizhu.html). I am also an alumnus of their [research group](http://dept.stat.lsa.umich.edu/~elevina/group.html). Previously, I received my MMath (Statistics) and my BMath (Statistics and Pure Mathematics) from the University of Waterloo (ON).
 
 ## Research Interests and Selected Publications
 
@@ -21,7 +21,7 @@ I am co-advised by [Dr. Elizaveta Levina](https://lsa.umich.edu/stats/people/fac
 
 - Latent space models for common and individual structure in multiplex networks (paper in Biometrika, `multiness` R package on GitHub).
 - Latent process models for functional networks (submitted, pre-print on arXiv).
-- Node-wise inference for multilayer networks.
+- Mesoscale inference for multilayer networks.
 
 ### Post-selection inference
 **(with Dan Kessler and Snigdha Panigrahi, UMich)**
@@ -45,23 +45,23 @@ I am co-advised by [Dr. Elizaveta Levina](https://lsa.umich.edu/stats/people/fac
 - Pre-prints on [arXiv](https://arxiv.org/search/stat?searchtype=author&query=MacDonald%2C+P+W).
 - Code on [GitHub](https://github.com/peterwmacd).
 <!-- - multiness on CRAN  -->
-- Follow me on [Strava](https://www.strava.com/athletes/10522364), join [PR Run Club](https://www.prrunclub.com/) Ann Arbor.
-
+- Follow me on [Strava](https://www.strava.com/athletes/10522364).
 ## Education
 
+- PhD, University of Michigan, 2023.
 - MMath, University of Waterloo, 2018.
 - BMath, University of Waterloo, 2017.
 
 ## Selected awards and honors
 
+- Department of Statistics Outstanding Dissertation Award, University of Michigan 2023
 - Rackham Pre-doctoral Fellow, University of Michigan 2022-2023
 - Nonparametric Statistics Student Paper Finalist, JSM 2022.
 - Statistical Learning and Data Science (SLDS) Student Paper Award, JSM 2021.
 - Rackham International Student Fellowship, University of Michigan, 2019.
 - Outstanding First Year PhD Student, University of Michigan Department of Statistics, 2019.
 - NSERC Canada Graduate Scholarship (Masters), University of Waterloo, 2017.
-- President's Graduate Scholarship, University of Waterloo, 2017.
 
 ## Contact information
 
-Email: pwmacdon@umich.edu
+Email: peter.w.macdonald@mail.mcgill.ca; pwmacdon@umich.edu
