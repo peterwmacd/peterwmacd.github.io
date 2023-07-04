@@ -12,7 +12,9 @@ title: Peter W. MacDonald
 
 I am a postdoctoral scholar in the Department of Mathematics and Statistics at McGill University, under the supervision of [Dr. Eric D. Kolaczyk](https://sites.bu.edu/kolaczyk/). I work primarily on statistical analysis of multiple and dynamic networks. I also have interests in post-selection inference and machine learning for health data.
 
-I completed my PhD at the University of Michigan, co-advised by [Dr. Elizaveta Levina](https://lsa.umich.edu/stats/people/faculty/elevina.html) and [Dr. Ji Zhu](https://lsa.umich.edu/stats/people/faculty/jizhu.html). I am also an alumnus of their [research group](http://dept.stat.lsa.umich.edu/~elevina/group.html). Previously, I received my MMath (Statistics) and my BMath (Statistics and Pure Mathematics) from the University of Waterloo (ON).
+I completed my PhD at the University of Michigan, co-advised by [Dr. Elizaveta Levina](https://lsa.umich.edu/stats/people/faculty/elevina.html) and [Dr. Ji Zhu](https://lsa.umich.edu/stats/people/faculty/jizhu.html). I am also an alumnus of their [research group](http://dept.stat.lsa.umich.edu/~elevina/group.html). Previously, I received my MMath (Statistics) and my BMath (Statistics and Pure Mathematics) from the University of Waterloo.
+
+In Fall 2024, I will start as an Assistant Professor at the University of Waterloo.
 
 ## Research Interests and Selected Publications
 
