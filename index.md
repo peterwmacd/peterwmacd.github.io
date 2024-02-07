@@ -28,7 +28,7 @@ In Fall 2024, I will start as an Assistant Professor at the University of Waterl
 ### Post-selection inference
 **(with Dan Kessler and Snigdha Panigrahi, UMich)**
 
-- Valid post-selection inference with grouped sparsity (revised for the Journal of Machine Learning Research, pre-print on arXiv).
+- Valid post-selection inference with grouped sparsity (paper in the Journal of Machine Learning Research).
 
 ### Multiple testing and false discovery rate (FDR) control
 **(with Kun Liang and Yingli Qin, UWaterloo)**
