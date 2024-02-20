@@ -43,26 +43,27 @@ In Fall 2024, I will start as an Assistant Professor at the University of Waterl
 
 ## Links
 
-- Publications on [Google Scholar](https://scholar.google.ca/citations?user=yB4ft9EAAAAJ&hl=en&authuser=1).
-- Pre-prints on [arXiv](https://arxiv.org/search/stat?searchtype=author&query=MacDonald%2C+P+W).
-- Code on [GitHub](https://github.com/peterwmacd).
+- Publications on [Google Scholar](https://scholar.google.ca/citations?user=yB4ft9EAAAAJ&hl=en&authuser=1)
+- Pre-prints on [arXiv](https://arxiv.org/search/stat?searchtype=author&query=MacDonald%2C+P+W)
+- Code on [GitHub](https://github.com/peterwmacd)
 <!-- - multiness on CRAN  -->
-- Follow me on [Strava](https://www.strava.com/athletes/10522364).
+- Follow me on [Strava](https://www.strava.com/athletes/10522364)
+
 ## Education
 
-- PhD, University of Michigan, 2023.
-- MMath, University of Waterloo, 2018.
-- BMath, University of Waterloo, 2017.
+- PhD, University of Michigan, 2023
+- MMath, University of Waterloo, 2018
+- BMath, University of Waterloo, 2017
 
 ## Selected awards and honors
 
-- NSERC Postdoctoral Fellowship, 2023-24.
-- Department of Statistics Outstanding Dissertation Award, University of Michigan 2023.
-- Rackham Pre-doctoral Fellow, University of Michigan 2022-2023.
+- NSERC Postdoctoral Fellowship, 2023-24
+- Department of Statistics Outstanding Dissertation Award, University of Michigan 2023
+- Rackham Pre-doctoral Fellow, University of Michigan 2022-2023
 <!-- - Nonparametric Statistics Student Paper Finalist, JSM 2022. -->
-- Statistical Learning and Data Science (SLDS) Student Paper Award, JSM 2021.
-- Rackham International Student Fellowship, University of Michigan, 2019.
-- Outstanding First Year PhD Student, University of Michigan Department of Statistics, 2019.
+- Statistical Learning and Data Science (SLDS) Student Paper Award, JSM 2021
+- Rackham International Student Fellowship, University of Michigan, 2019
+- Outstanding First Year PhD Student, University of Michigan Department of Statistics, 2019
 <!-- - NSERC Canada Graduate Scholarship (Masters), University of Waterloo, 2017. -->
 
 ## Contact information
