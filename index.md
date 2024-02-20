@@ -21,8 +21,8 @@ In Fall 2024, I will start as an Assistant Professor at the University of Waterl
 ### Multilayer and dynamic networks
 **(with Elizaveta Levina and Ji Zhu, UMich)**
 
-- Latent space models for common and individual structure in multiplex networks (paper in Biometrika, `multiness` R package on GitHub).
-- Latent process models for functional networks (submitted, pre-print on arXiv).
+- Latent space models for common and individual structure in multiplex networks (paper in Biometrika, `multiness` R package on CRAN).
+- Latent process models for functional networks (submitted, pre-print on arXiv, `fase` R package on GitHub).
 - Mesoscale inference for multilayer networks.
 
 ### Post-selection inference
