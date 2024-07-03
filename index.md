@@ -10,11 +10,11 @@ title: Peter W. MacDonald
 
 ## About
 
-I am a postdoctoral scholar in the Department of Mathematics and Statistics at McGill University, under the supervision of [Dr. Eric D. Kolaczyk](https://sites.bu.edu/kolaczyk/). I work primarily on statistical analysis of multiple and dynamic networks. I also have interests in post-selection inference and machine learning for health data.
+I am an Assistant Professor in the Department of Statistics & Actuarial Science at the University of Waterloo. I work primarily on statistical analysis and methods for multiple and dynamic networks. I also have interests in post-selection inference, and formally private and fair statistical methods for network data.
 
-I completed my PhD at the University of Michigan, co-advised by [Dr. Elizaveta Levina](https://lsa.umich.edu/stats/people/faculty/elevina.html) and [Dr. Ji Zhu](https://lsa.umich.edu/stats/people/faculty/jizhu.html). I am also an alumnus of their [research group](http://dept.stat.lsa.umich.edu/~elevina/group.html). Previously, I received my MMath (Statistics) and my BMath (Statistics and Pure Mathematics) from the University of Waterloo.
+I was formerly (2023-2024) a postdoctoral scholar in the Department of Mathematics & Statistics at McGill University, under the supervision of [Dr. Eric D. Kolaczyk](https://sites.bu.edu/kolaczyk/).
 
-In Fall 2024, I will start as an Assistant Professor at the University of Waterloo.
+I completed my PhD (2018-2023) at the University of Michigan, co-advised by [Dr. Elizaveta Levina](https://lsa.umich.edu/stats/people/faculty/elevina.html) and [Dr. Ji Zhu](https://lsa.umich.edu/stats/people/faculty/jizhu.html). I am also an alumnus of their [research group](http://dept.stat.lsa.umich.edu/~elevina/group.html). Previously, I received my MMath (Statistics 2017-2018) and my BMath (Statistics and Pure Mathematics 2012-2017) from the University of Waterloo.
 
 ## Research Interests and Selected Publications
 
@@ -22,7 +22,7 @@ In Fall 2024, I will start as an Assistant Professor at the University of Waterl
 **(with Elizaveta Levina and Ji Zhu, UMich)**
 
 - Latent space models for common and individual structure in multiplex networks (paper in Biometrika, `multiness` R package on CRAN).
-- Latent process models for functional networks (submitted, pre-print on arXiv, `fase` R package on GitHub).
+- Latent process models for functional networks (submitted, pre-print on arXiv, `fase` R package on CRAN).
 - Mesoscale inference for multilayer networks.
 
 ### Post-selection inference
@@ -47,7 +47,7 @@ In Fall 2024, I will start as an Assistant Professor at the University of Waterl
 - Pre-prints on [arXiv](https://arxiv.org/search/stat?searchtype=author&query=MacDonald%2C+P+W)
 - Code on [GitHub](https://github.com/peterwmacd)
 <!-- - multiness on CRAN  -->
-- Follow me on [Strava](https://www.strava.com/athletes/10522364)
+<!-- - Follow me on [Strava](https://www.strava.com/athletes/10522364) -->
 
 ## Education
 
@@ -68,4 +68,4 @@ In Fall 2024, I will start as an Assistant Professor at the University of Waterl
 
 ## Contact information
 
-Email: peter.w.macdonald@mcgill.ca; pwmacdon@umich.edu
+Email: pwmacdon@uwaterloo.ca
