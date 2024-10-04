@@ -6,7 +6,7 @@ title: Peter W. MacDonald
 # Dr. Peter W. MacDonald
 
 <!-- ![(Canadian) Thanksgiving 2019](leaf.jpg) -->
-![A photo of me with arms crossed](headshot.jpg | width=300)
+![A photo of me with arms crossed](headshot.jpg)
 
 ## About
 
