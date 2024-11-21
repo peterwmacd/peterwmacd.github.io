@@ -18,15 +18,19 @@ I completed my PhD (2018-2023) at the University of Michigan, co-advised by [Dr.
 
 ## Research Interests and Selected Publications
 
+### Inference for noisy dynamic networks **(with Eric Kolaczyk, McGill)**
+
+### Fair inference for network data **(with Eric Kolaczyk and Hui Shen, McGill)**
+
 ### Multilayer and dynamic networks
 **(with Elizaveta Levina and Ji Zhu, UMich)**
 
 - Latent space models for common and individual structure in multiplex networks (paper in Biometrika, `multiness` R package on CRAN).
 - Latent process models for functional networks (submitted, pre-print on arXiv, `fase` R package on CRAN).
-- Mesoscale inference for multilayer networks.
+- Mesoscale inference for multilayer networks (pre-print on arXiv)
 
 ### Post-selection inference
-**(with Dan Kessler and Snigdha Panigrahi, UMich)**
+**(with Dan Kessler, UNC and Snigdha Panigrahi, UMich)**
 
 - Valid post-selection inference with grouped sparsity (paper in the Journal of Machine Learning Research).
 
@@ -68,4 +72,4 @@ I completed my PhD (2018-2023) at the University of Michigan, co-advised by [Dr.
 
 ## Contact information
 
-Email: pwmacdon@uwaterloo.ca
+Email: pwmacdon AT uwaterloo DOT ca
