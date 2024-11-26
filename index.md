@@ -16,11 +16,27 @@ I was formerly (2023-2024) a postdoctoral scholar in the Department of Mathemati
 
 I completed my PhD (2018-2023) at the University of Michigan, co-advised by [Dr. Elizaveta Levina](https://lsa.umich.edu/stats/people/faculty/elevina.html) and [Dr. Ji Zhu](https://lsa.umich.edu/stats/people/faculty/jizhu.html). I am also an alumnus of their [research group](http://dept.stat.lsa.umich.edu/~elevina/group.html). Previously, I received my MMath (Statistics 2017-2018) and my BMath (Statistics and Pure Mathematics 2012-2017) from the University of Waterloo.
 
+## Teaching
+
+### Winter 2025
+- STAT 450 (Estimation and Hypothesis Testing)
+- STAT 321 (Regression and Forecasting)
+
+## Prospective Students
+
+** I am currently recruiting a Masters student starting in the Winter 2025 semester, to work on network changepoint detection**
+
+If you are a current or prospective UWaterloo student interested in working together, email me (pwmacdon AT uwaterloo DOT ca) with a CV, a brief bio, and your research interests; we can set up an online or in-person meeting to discuss further.
+
 ## Research Interests and Selected Publications
 
-### Inference for noisy dynamic networks **(with Eric Kolaczyk, McGill)**
+### Inference for noisy dynamic networks
+**(with Eric Kolaczyk, McGill)**
 
-### Fair inference for network data **(with Eric Kolaczyk and Hui Shen, McGill)**
+- Autoregressive networks with dependent edges (with Jinyaun Chang, Qin Fang, Qiwei Yao; pre-print on arXiv).
+
+### Fair inference for network data
+**(with Eric Kolaczyk and Hui Shen, McGill)**
 
 ### Multilayer and dynamic networks
 **(with Elizaveta Levina and Ji Zhu, UMich)**
@@ -32,7 +48,7 @@ I completed my PhD (2018-2023) at the University of Michigan, co-advised by [Dr.
 ### Post-selection inference
 **(with Dan Kessler, UNC and Snigdha Panigrahi, UMich)**
 
-- Valid post-selection inference with grouped sparsity (paper in the Journal of Machine Learning Research).
+- Bayesian post-selection inference with the Group LASSO (paper in the Journal of Machine Learning Research).
 
 ### Multiple testing and false discovery rate (FDR) control
 **(with Kun Liang and Yingli Qin, UWaterloo)**
@@ -43,7 +59,7 @@ I completed my PhD (2018-2023) at the University of Michigan, co-advised by [Dr.
 ### Interdisciplinary work
 **(supervised by Ji Zhu, UMich; Joel Rubenstein, VA Hospital and UMich Medicine)**
 
-- Predicting incident adenocarcinoma of the esophagus or gastric cardia using machine learning of electronic health records (paper in Gastroenterology)
+- Predicting incident adenocarcinoma of the esophagus or gastric cardia using machine learning of electronic health records (papers in Gastroenterology).
 
 ## Links
 
