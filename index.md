@@ -43,7 +43,7 @@ If you are a current or prospective UWaterloo student interested in working toge
 
 - Latent space models for common and individual structure in multiplex networks (paper in Biometrika, `multiness` R package on CRAN).
 - Latent process models for functional networks (submitted, pre-print on arXiv, `fase` R package on CRAN).
-- Mesoscale two-sample testing for networks (pre-print on arXiv, [UVM statistics seminar]{https://youtu.be/wdgs2g46f1c})
+- Mesoscale two-sample testing for networks (pre-print on arXiv, [UVM statistics seminar](https://youtu.be/wdgs2g46f1c))
 
 ### Post-selection inference
 **(with Dan Kessler, UNC and Snigdha Panigrahi, UMich)**
