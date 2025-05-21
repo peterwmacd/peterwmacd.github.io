@@ -18,6 +18,9 @@ I completed my PhD (2018-2023) at the University of Michigan, co-advised by [Dr.
 
 ## Teaching
 
+### Fall 2025
+- STAT 850 (Estimation and Hypothesis Testing)
+
 ### Winter 2025
 - STAT 450 (Estimation and Hypothesis Testing)
 - STAT 321 (Regression and Forecasting)
@@ -26,7 +29,7 @@ I completed my PhD (2018-2023) at the University of Michigan, co-advised by [Dr.
 
 <!-- **I am currently recruiting a Masters student starting in the Winter 2025 semester, to work on network changepoint detection** -->
 
-If you are a current or prospective UWaterloo graduate student interested in working together, email me (pwmacdon AT uwaterloo DOT ca) with a CV, a brief bio, and your research interests; we can set up an online or in-person meeting to discuss further.
+If you are a current or prospective UWaterloo graduate student interested in working together, email me (pwmacdonald AT uwaterloo DOT ca) with a CV, a brief bio, and your research interests; we can set up an online or in-person meeting to discuss further.
 
 ## Research Interests and Selected Publications
 
